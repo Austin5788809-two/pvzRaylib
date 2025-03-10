@@ -1,11 +1,8 @@
 #pragma once
-
+//SFML 3.0+
 #include <iostream>
+#include <optional>
 #include <SFML/Graphics.hpp>
-#include <SFML/Audio.hpp>
-#include <SFML/Network.hpp>
-#include <SFML/System.hpp>
-#include <SFML/Window.hpp>
 
 extern bool fullscreen;
 extern sf::RenderWindow window;
