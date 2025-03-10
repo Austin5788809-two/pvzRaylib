@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "nstack": "cpp",
-        "nqueue": "cpp",
-        "keywords": "plaintext",
-        "testcode": "plaintext",
-        "optional": "cpp"
-    }
-}
